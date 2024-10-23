@@ -11,3 +11,4 @@ print(f"학번: {student_id}")
 print(f"학과: {student_mj}")
 print(f"학교: {student_sc}")
 print(f"학년: {student_gr}")
+#branch
