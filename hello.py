@@ -6,7 +6,7 @@ student_gr = input("학년을 입력")
 
 print()
 print("<출력>")
-print(f"이름: {namee}")
+print(f"이름: {name}")
 print(f"학번: {student_id}")
 print(f"학과: {student_mj}")
 print(f"학교: {student_sc}")
