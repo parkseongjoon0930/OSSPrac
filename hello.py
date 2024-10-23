@@ -4,9 +4,6 @@ student_mj = input("학과를 입력")
 student_sc = input("학교를 입력")
 student_gr = input("학년을 입력")
 
-
-#연습
-
 print()
 print("<출력>")
 print(f"이름: {name}")
